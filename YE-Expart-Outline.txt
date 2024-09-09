@@ -1,0 +1,41 @@
+
+
+
+Assignment--2
+       1.KNN
+           
+Assignment--3
+       1.
+Assignment--4
+       1. Ensemble condition
+       2. Logistic Regression(model)
+       3. Decision Tree(model)
+       4. GaussianNB(model)
+       5. RendomForestClassifier(model)
+       6. StackingClassifier(model)
+Assignment--5
+Assignment--6
+       1. RendomForestClassifier(model)
+       2. AdaBoostClassifier(model)
+Assignment--7
+Assignment--8
+       1.Image Segmantation
+Assignment--9
+       1.Image Segmantation
+Assignment--10
+       1.Image Segmantation
+       2.Sobal Eadge Detection
+Assignment--11
+       1. Feature Extruction
+       2. CNN
+Assignment--12
+       1.VGG16(Keras)
+       2.Filter Visualization
+       3.ResNet Varients(model)
+Assignment--13
+       1.DenseNet(model)
+       2.Tranfer Learning(model)/ like --> Feature Extruction
+       3. Generative Network
+       4.
+Assignment--14
+Assignment--15

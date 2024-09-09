@@ -1,0 +1,13 @@
+Machine Learning:
+
+numpy
+pandas
+matplotlib
+Scikit-Learn
+
+Deep Learning:
+
+Tensorflow
+keras
+pytorch
+openCV
